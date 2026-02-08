@@ -1,0 +1,9 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+httpx>=0.24.0
+loguru>=0.7.0
+bittensor==9.8.3
+python-dotenv>=1.0.0
+substrate-interface>=1.7.0
+base58>=2.1.1
+websockets>=11.0.0
