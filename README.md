@@ -214,6 +214,13 @@ Async inference E2E: [docs/async_inference_e2e.md](docs/async_inference_e2e.md).
 
 ---
 
+## 📬 Contact 
+- Author: PJS
+- Email: cpalvarez95999@gmail.com
+- GitHub: @algodev999
+
+---
+
 ## 🌟 Acknowledgements
 
 - [Bittensor](https://docs.bittensor.com) – Subnet and miner framework
